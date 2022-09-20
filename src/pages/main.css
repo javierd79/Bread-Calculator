@@ -1,0 +1,42 @@
+ion-content ion-toolbar {
+  --background: translucent;
+}
+
+ion-card {
+  margin: 0;
+  margin-inline: 0;
+}
+
+.card {
+  margin: 10px 10px 0 10px!important;
+}
+
+.card-bcv {
+  margin: 0 10px 10px 10px!important;
+}
+
+ion-toolbar {
+  box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.1)!important;
+}
+
+ion-content {
+  --background: #f6f7ffa2!important;
+}
+
+.separator {
+  margin: 10px 0 10px 0;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+ion-button {
+  margin: 0 8px 10px 8px;
+}
+
+.card-content {
+  padding: 0 0 20px 0!important;
+  margin: 0 20px 0 0!important;
+}
+
+.card-header {
+  padding: 20px 20px 0 20px!important;
+}
